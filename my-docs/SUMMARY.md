@@ -8,7 +8,7 @@
 * [Cocos3](cocos/cocos03.md)
 
 ## godot
-* [Godot1](Folder2/godot01.md)
-* [Godot2](Folder2/godot02.md)
-* [Godot3](Folder2/godot03.md)
+* [Godot1](godot/godot01.md)
+* [Godot2](godot/godot02.md)
+* [Godot3](godot/godot03.md)
 
